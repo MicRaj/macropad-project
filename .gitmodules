@@ -1,0 +1,11 @@
+[submodule "macropad-firmware"]
+	path = macropad-firmware
+	url = https://github.com/MicRaj/macropad-firmware.git
+
+[submodule "macropad-hardware"]
+	path = macropad-hardware
+	url = https://github.com/MicRaj/macropad-hardware.git
+	
+[submodule "macropad-cad"]
+	path = macropad-cad
+	url = https://github.com/MicRaj/macropad-cad.git
