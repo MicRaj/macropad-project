@@ -9,3 +9,6 @@
 [submodule "macropad-cad"]
 	path = macropad-cad
 	url = https://github.com/MicRaj/macropad-cad.git
+[submodule "macropad-application"]
+	path = macropad-application
+	url = https://github.com/MicRaj/macropad-application.git
