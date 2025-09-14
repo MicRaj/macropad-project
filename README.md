@@ -1,7 +1,6 @@
 # Macropad
 
-Customizable 3x3 macropad built with open-source software.
-Designed using FreeCAD and KiCAD, and powered by a Raspberry Pi Pico running CircuitPython, this macropad enables easy mapping and execution of macros for productivity or gaming.
+A fully customizable 3×3 macropad built entirely with free, open-source tools: case designed in FreeCAD, PCB in KiCad, firmware developed in C using the Pico SDK with TinyUSB for USB drivers. Includes a desktop app for programming macros using a custom macro description language.
 
 # Demo
 
